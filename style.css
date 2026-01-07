@@ -1,0 +1,8 @@
+.row-border-top td {
+    border-top: 2px solid !important;
+}
+
+.row-border-bottom td {
+    border-bottom: 2px solid !important;
+}
+
